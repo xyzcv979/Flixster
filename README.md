@@ -38,7 +38,9 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 Json parsing was a little tricky as I kept on getting NULL references
+
 Also, anything dealing with constraints seem like trial and error. My first version of the app had the text going outside of the screen.
 
 ## License
